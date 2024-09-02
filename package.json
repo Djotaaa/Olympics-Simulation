@@ -1,0 +1,12 @@
+{
+  "name": "basketball-tournament",
+  "version": "1.0.0",
+  "description": "Olympics Simulation",
+  "main": "main.js",
+  "scripts": {
+    "start": "node --max-old-space-size=4096 main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
